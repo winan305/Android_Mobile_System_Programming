@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MOST</string>
+    <string name="none_result">\nMoving time : 0분\nSteps : 0\nTopPlace : None\n</string>
+    <string name="track_samples">"00:00 - 00:00 00분 이동 000걸음
+00:00 - 00:00 체류 401
+00:00 - 00:00 00분 이동 00걸음
+00:00 - 00:00 체류 실내
+00:00 - 00:00 00분 이동 00걸음
+00:00 - 00:00 체류 실외\n"</string>
+</resources>
